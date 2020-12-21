@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aida Moran on Malay @ WWW</title>
+    <link>https://examplesite.org/authors/aida-moran/</link>
+    <description>Recent content in Aida Moran on Malay @ WWW</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Malay K Basu. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 01 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/authors/aida-moran/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A New Mitochondrial Pool of Cyclin E, Regulated by Drp1, Is Linked to Cell-Density-Dependent Cell Proliferation</title>
+      <link>https://examplesite.org/publication/parker-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/publication/parker-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

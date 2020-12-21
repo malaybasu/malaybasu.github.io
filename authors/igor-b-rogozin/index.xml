@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Igor B Rogozin on Malay @ WWW</title>
+    <link>https://examplesite.org/authors/igor-b-rogozin/</link>
+    <description>Recent content in Igor B Rogozin on Malay @ WWW</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Malay K Basu. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 01 Feb 2011 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/authors/igor-b-rogozin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Ecoresponsive Genome of Daphnia Pulex</title>
+      <link>https://examplesite.org/publication/colbourne-2011/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/publication/colbourne-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Mobility in Proteins: Functional and Evolutionary Implications</title>
+      <link>https://examplesite.org/publication/basu-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/publication/basu-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primordial Spliceosomal Introns Were Probably U2-Type</title>
+      <link>https://examplesite.org/publication/basu-2008-c/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/publication/basu-2008-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of Protein Domain Promiscuity in Eukaryotes</title>
+      <link>https://examplesite.org/publication/basu-2008/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/publication/basu-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Dynamics of Introns in Plastid-Derived Genes in Plants: Saturation Nearly Reached but Slow Intron Gain Continues</title>
+      <link>https://examplesite.org/publication/basu-2008-b/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/publication/basu-2008-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signs of Positive Selection of Somatic Mutations in Human Cancers Detected by EST Sequence Analysis</title>
+      <link>https://examplesite.org/publication/babenko-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/publication/babenko-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APOBEC4, a New Member of the AID/APOBEC Family of Polynucleotide (Deoxy)Cytidine Deaminases Predicted by Computational Analysis</title>
+      <link>https://examplesite.org/publication/rogozin-2005/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/publication/rogozin-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
