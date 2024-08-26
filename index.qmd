@@ -1,0 +1,43 @@
+---
+title: "Malay Basu"
+image: img/malay.jpg
+about:
+   template: trestles
+   image-shape: round
+   image-width: 15em
+   links: 
+     - icon: github
+       text: "@malaybasu"
+       href: https://www.github.com/malaybasu
+     - icon: twitter
+       text: "@malaykbasu"
+       href: https://x.com/malakbasu
+     - icon: twitter
+       text: "@malay"
+       href: https://x.com/malay
+     - icon: linkedin
+       text: "@malaybasu"
+       href: https://www.linkedin.com/in/malaybasu/
+---
+
+Computational Biology and bioinformatics researcher and educator.
+
+### Research interest
+
+Computational Biology | Bioinformatics | Evolutionary and Comparative Genomics.
+
+
+### Employment
+
+- **Kansas University Medical Center (KUMC)** | Associate Professor | 2022 -- Present.
+- **Previous employers** | University of Alabama, Birmingham, USA | J. Craig Venter Institute, Rockville, USA.
+
+### Education
+
+- **PhD Life Sciences** | Center for Cellular and Molecular Biology (CCMB), India.
+- **MBA** | University of Alabama, Birmingham, USA.
+- **MTech** | Jadavpur University, India.
+- **MSc** | University of Calcutta, India.
+- **BSc** | University of Calcutta, India.
+
+

@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+     - /**/img/*
+     - CNAME
+
+website:
+  title: "Malay @ WWW"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: https://github.com/malaybasu/malaycv/raw/master/malay_cv.pdf
+        text: CV
+      - href: https://scholar.google.com/citations?hl=en&user=sUV99E0AAAAJ
+        text: Publications
+      - href: https://cb2edu.org
+        text: Teaching
+      - text: Links
+        menu:
+          - text: Lab GitHub
+            href: https://github.com/genlab
+  page-footer: 
+      left: "&copy; 2024 Malay K Basu. All rights reserved."
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
